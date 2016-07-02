@@ -1,0 +1,238 @@
+/* body class*/
+
+body p {
+    text-align: right;
+    color: white;
+}
+
+
+/*logo*/
+
+.logo {
+    position: fixed;
+    float: left;
+    margin-top: 18px;
+    background-color: #AF7AC5;
+    font-family: 'Lora', serif;
+}
+
+.logo h1 {
+    text-align: inherit;
+    font-size: 40px;
+}
+
+.name p a {
+    text-align: justify;
+    text-decoration: none;
+    background-color: #AF7AC5;
+}
+
+
+/*navigation bar*/
+
+.nav .navigationbar {
+    float: right;
+    color: white;
+    background-color: #AF7AC5;
+    font-family: 'Lora', serif;
+}
+
+.nav {
+    float: left;
+    position: fixed;
+    margin-top: 1px;
+    background-color: #AF7AC5;
+    height: 100px;
+}
+
+aside {
+    margin-top: 24px;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Lora', serif;
+    color: white;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+h1 a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/*content*/
+
+.content {
+    margin-top: 110px;
+    text-align: center;
+    text-indent: inherit;
+    color: #AF7AC5;
+    background-image: url("images/3D.jpg");
+}
+
+.content h1 {
+    font-size: 38px;
+    font-family: 'Lora', serif;
+}
+
+
+/*column 1*/
+
+.column1 img {
+    width: 300px;
+    height: 300px;
+}
+
+
+/*column 2*/
+
+.column2 img {
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+}
+
+
+/*column 3*/
+
+.column3 img {
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+}
+
+
+/*hero element*/
+
+.hero {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    overflow: hidden;
+    display: block;
+    margin: 10px 0;
+    float: none;
+}
+
+.hero img {
+    width: 960px;
+    height: 560px;
+}
+
+
+/*descriptions*/
+
+.description1 p {
+    color: #AF7AC5;
+    text-align: justify;
+    font-family: 'Lora', serif;
+    font-size: 14px;
+}
+
+.description2 p {
+    color: #AF7AC5;
+    text-align: justify;
+    font-family: 'Lora', serif;
+    font-size: 14px;
+}
+
+.description3 p {
+    color: #AF7AC5;
+    text-align: justify;
+    font-family: 'Lora', serif;
+    font-size: 14px;
+}
+
+.col1 img {
+    margin-top: 40px;
+    width: 450px;
+    height: 450px;
+}
+
+.col2 {}
+
+.row1 {
+    color: #AF7AC5;
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+.row1 p {
+    text-align: center;
+    color: #AF7AC5;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+}
+
+.row2 {
+    color: #AF7AC5;
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+}
+
+.row2 p {
+    text-align: center;
+    color: #AF7AC5;
+    font-family: 'Lora', serif;
+}
+
+.row3 {
+    color: #AF7AC5;
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+}
+
+.row3 p {
+    text-align: center;
+    color: #AF7AC5;
+}
+
+
+/*footer bar*/
+
+.footer {
+    background-color: #AF7AC5;
+    margin-top: 40px;
+    color: white;
+    font-family: 'Lora', serif;
+}
+
+h4 a {
+    text-decoration: none;
+}
+
+h3 {
+    align: center;
+}
+
+
+/* social media links */
+
+.icon {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 2em;
+    padding: 20px;
+}
+
+i {
+    color: white;
+    text-decoration: none;
+}
